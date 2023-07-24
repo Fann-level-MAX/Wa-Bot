@@ -1,0 +1,27 @@
+{
+  "name": "Wa-Bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Using Lib Baileys-MD",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Fgtps",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "directories": {
+    "lib": "lib",
+    "plugins": "plugins"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fgtps/Wa-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fgtps/Wa-Bot/issues"
+  },
+  "homepage": "https://github.com/Fgtps/Wa-Bot#readme",
+  "devDependencies": {}
+}
